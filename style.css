@@ -47,7 +47,7 @@ button {
   width: 100%;
   padding: 10px;
   border: none;
-  background: #00c2c7;
+  background: #14c7c9;
   color: #000;
   font-weight: bold;
   cursor: pointer;
@@ -55,7 +55,7 @@ button {
 }
 
 button:hover {
-  background: #00e5eb;
+  background: #22e4e6;
 }
 
 #ranking {
@@ -64,16 +64,4 @@ button:hover {
 
 #rankingList {
   padding-left: 20px;
-}
-
-.score-high {
-  color: #4ade80;
-}
-
-.score-mid {
-  color: #facc15;
-}
-
-.score-low {
-  color: #f87171;
 }

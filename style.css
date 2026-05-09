@@ -1,0 +1,79 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #111;
+  color: white;
+}
+
+#map {
+  height: 100vh;
+  margin-left: 320px;
+}
+
+#sidebar {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 280px;
+  height: 100vh;
+  background: #111;
+  padding: 20px;
+  box-shadow: 2px 0 10px rgba(0,0,0,0.5);
+  z-index: 1000;
+  overflow-y: auto;
+}
+
+h1 {
+  font-size: 24px;
+  margin-bottom: 0;
+}
+
+p {
+  color: #aaa;
+}
+
+label {
+  display: block;
+  margin-top: 15px;
+  font-size: 14px;
+}
+
+input[type="range"] {
+  width: 100%;
+}
+
+button {
+  margin-top: 20px;
+  width: 100%;
+  padding: 10px;
+  border: none;
+  background: #00c2c7;
+  color: #000;
+  font-weight: bold;
+  cursor: pointer;
+  border-radius: 8px;
+}
+
+button:hover {
+  background: #00e5eb;
+}
+
+#ranking {
+  margin-top: 25px;
+}
+
+#rankingList {
+  padding-left: 20px;
+}
+
+.score-high {
+  color: #4ade80;
+}
+
+.score-mid {
+  color: #facc15;
+}
+
+.score-low {
+  color: #f87171;
+}

@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "candidatos",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32718" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "sc_trab": 78.0, "sc_super": 93.0, "sc_cesfam": 0.0, "sc_gym": 36.0, "sc_final": 59.85 }, "geometry": { "type": "Point", "coordinates": [ 734616.123029130860232, 5849573.475622332654893 ] } },
+{ "type": "Feature", "properties": { "id": 4, "sc_trab": 0.0, "sc_super": 93.0, "sc_cesfam": 0.0, "sc_gym": 0.0, "sc_final": 23.25 }, "geometry": { "type": "Point", "coordinates": [ 735989.297247192123905, 5852157.62572765070945 ] } },
+{ "type": "Feature", "properties": { "id": 6, "sc_trab": 0.0, "sc_super": 46.0, "sc_cesfam": 0.0, "sc_gym": 0.0, "sc_final": 11.5 }, "geometry": { "type": "Point", "coordinates": [ 736414.477337646647356, 5852738.180270913988352 ] } },
+{ "type": "Feature", "properties": { "id": 8, "sc_trab": 0.0, "sc_super": 0.0, "sc_cesfam": 0.0, "sc_gym": 0.0, "sc_final": 0.0 }, "geometry": { "type": "Point", "coordinates": [ 732268.708998839720152, 5847836.011302044615149 ] } },
+{ "type": "Feature", "properties": { "id": 2, "sc_trab": 16.0, "sc_super": 60.0, "sc_cesfam": 46.0, "sc_gym": 25.0, "sc_final": 34.35 }, "geometry": { "type": "Point", "coordinates": [ 733583.617797107552178, 5849952.988221569918096 ] } },
+{ "type": "Feature", "properties": { "id": 5, "sc_trab": 0.0, "sc_super": 40.0, "sc_cesfam": 43.0, "sc_gym": 0.0, "sc_final": 18.6 }, "geometry": { "type": "Point", "coordinates": [ 734845.510312491096556, 5851616.439711276441813 ] } },
+{ "type": "Feature", "properties": { "id": 7, "sc_trab": 0.0, "sc_super": 36.0, "sc_cesfam": 0.0, "sc_gym": 0.0, "sc_final": 9.0 }, "geometry": { "type": "Point", "coordinates": [ 736071.971153670107014, 5850296.544232936576009 ] } },
+{ "type": "Feature", "properties": { "id": 3, "sc_trab": 0.0, "sc_super": 100.0, "sc_cesfam": 19.0, "sc_gym": 0.0, "sc_final": 28.8 }, "geometry": { "type": "Point", "coordinates": [ 735508.369651913992129, 5851764.979276082478464 ] } }
+]
+}
